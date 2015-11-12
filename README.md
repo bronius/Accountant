@@ -4,7 +4,7 @@ Chrome Extension for Pivotal Tracker counting story points
 ### Installation
 -----
 
-1. `` to the directory of your choice
+1. `git clone git@github.com:jmoughon/Accountant.git` to the directory of your choice
 1. Go to the Chrome Extensions page at `chrome://extensions/`
 1. Enable the `Developer Mode checkbox
 1. Click `Load Unpacked Extension`
