@@ -1,5 +1,5 @@
 # Accountant
-Chrome Extension for Pivotal Tracker workflow optimization
+Chrome Extension for Pivotal Tracker counting story points
 
 ### Installation
 -----
