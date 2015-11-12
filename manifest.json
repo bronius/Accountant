@@ -1,0 +1,18 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "Accountant",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Count your story points in Pivotal Tracker",
+  "homepage_url": "http://jamesmoughon.com",
+  "permissions": [
+    "https://www.pivotaltracker.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [ "https://www.pivotaltracker.com/*" ],
+      "css": [ "src/inject/inject.css" ],
+      "js": [ "js/jquery/jquery.min.js", "src/inject/inject.js" ]
+    }
+  ]
+}
