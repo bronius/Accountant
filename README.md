@@ -15,7 +15,7 @@ You may need to refresh any currently open Pivotal Tracker windows. In the futur
 ### Usage
 -----
 
-Select stories and see the count increase above velocity.
+Select stories, and see the total story points tally shown above velocity in the lefthand menu.
 
 ### Roadmap
 -----
